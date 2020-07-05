@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+body{
+	color:white;
+	font-family: 'Cantarell';
+}
+
+#navbar-header{
+	background-color:gray;
+	text-transform:uppercase;
+}
+#navbar-header a{
+	text-decoration:none;
+	color:white;	
+}
+
+#nav-list a:hover{
+	background-color:white;
+	color:black;
+}
+h2{
+	text-align:center;
+	color:black;
+}
+#nav-list a{
+	text-align:center;
+	
+	border-bottom:1px solid white;
+}
+.row #container {
+	text-align:center;
+}
+.row #container {
+	background:gray;
+	padding:20px;
+	
+	
+}
